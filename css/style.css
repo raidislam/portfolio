@@ -28,10 +28,13 @@ body {
     border-radius: 10px;
 }
 
+.d-flex {
+    display: flex;
+}
+
 .hero-section {
     background-image: url('../images/top-banner.png');
     background-repeat: no-repeat;
-    display: flex;
 }
 
 /* .left-side {
